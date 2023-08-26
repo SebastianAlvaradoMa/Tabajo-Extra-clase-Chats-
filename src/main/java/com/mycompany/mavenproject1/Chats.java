@@ -5,7 +5,7 @@
 package com.mycompany.mavenproject1;
 
 /**
- *
+ *Define el main class de Chats.java
  * @author sebas
  */
 public class Chats {

@@ -10,7 +10,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 /**
- *
+ *clase Server que extiende a javax.swing.JFrame para generar gui
  * @author sebas
  */
 public class Server extends javax.swing.JFrame {

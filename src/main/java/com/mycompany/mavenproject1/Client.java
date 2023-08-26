@@ -9,7 +9,7 @@ import java.io.DataOutputStream;
 import java.net.Socket;
 
 /**
- *
+ *Creacion de CLient class extendida a swing
  * @author sebas
  */
 public class Client extends javax.swing.JFrame {
